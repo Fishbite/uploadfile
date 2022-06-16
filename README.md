@@ -13,3 +13,5 @@ As is, the file uploads to  the \upload directory.
 
 Please note: There is no server side php allowed on github pages and thus this utility cannot be tested on this platform.
 You need an Apache server with PHP to run the utility.
+
+**upload.php** needs to be in the root directory of your site: **htdocs** if you run your own Apache server or **public** for example if you use a free hosting service such as **000.webhost.com**
