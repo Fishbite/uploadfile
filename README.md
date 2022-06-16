@@ -10,3 +10,6 @@ There is no security of any kind implemented in this i.e.
  - No user log in or password required
 
 As is, the file uploads to  the \upload directory.
+
+Please note: There is no server side php allowed on github pages and thus this utility cannot be tested on this platform.
+You need an Apache server with PHP to run the utility.
